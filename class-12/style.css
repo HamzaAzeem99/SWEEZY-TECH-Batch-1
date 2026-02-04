@@ -1,0 +1,23 @@
+body{
+    font-size: 40px;
+    /* background-color: black; */
+    font-family: sans-serif;
+
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
+.yellow{
+    color: yellow;
+}
+p{
+    /* border-width: 20px; */
+    bo
+border-color: red aqua blue yellow;
+}
